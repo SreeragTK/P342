@@ -11,7 +11,7 @@ int main(){
         if(n==0){
             cout<<"The value of 0! is 1";
                 }
-        if(n>0){
+        else if(n>0){
             if(n==1){
                 cout<<"The value of 1! is 1";
                     }
