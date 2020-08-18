@@ -19,5 +19,7 @@ for (i=0;i<6;i++){
     }
 average=(k/36);
 cout<<"The average distance is:"<<average;
+//The output is:
+//The average distance is 1.94444
 return 0;
 }
