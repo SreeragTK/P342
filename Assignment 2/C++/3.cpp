@@ -130,7 +130,7 @@ int main(){
         cout<<"[";
         for(j=0;j<3;j++){
             if(j==2){
-                cout<<l[i][j]<<",";
+                cout<<l[i][j];
                 }
             else{
                 cout<<l[i][j]<<",";
