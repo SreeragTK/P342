@@ -36,5 +36,7 @@ for(i=0;i<6;i++){
     }
 double average=(k)/(36*36);
 cout<<"The average distance is:"<<average;
+//The output is:
+//The avarage distance is:3.88889
 return 0;
 }
