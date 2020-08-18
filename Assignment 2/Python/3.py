@@ -38,7 +38,12 @@ while h<3 and g<3:
     h+=1
     g+=1
 print("M","x","N is:",l)
-
+#The outputs are:
+#The matrix M is:[[1,0,-1],[1,2,3],[1,-2,1]]
+#The matrix N is:[[1,3,9],[-3,0,6],[2,4,5]]
+#The matrix A is:[1,3,6]
+#M x A is:[-5,25,1]
+#The matrix M x N is:[[-1,-1,4],[1,15,36],[9,7,2]]
 
 
 
