@@ -18,4 +18,5 @@ while i<6:
     i+=1
 average=(k)/(36*36)
 print("The average distance is:",average)
-
+#The output is:
+#The avarage distance is:3.88889
