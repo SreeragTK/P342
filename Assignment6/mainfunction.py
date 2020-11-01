@@ -39,9 +39,9 @@ def main():
     a,b=library6.monte_carlo(0,1,10000,f3)
     print("The integral=",a,"Standard Deviation=",b)
     #For plotting Fn(pi) vs N
-    arr=[[0.0 for i in range(10000)]for j in range(2)]
+    arr=[[0.0 for i in range(1000)]for j in range(2)]
     n=10
-    for i in range(10000):
+    for i in range(1000):
         a,b=library6.monte_carlo(0,1,n,f3)
         arr[0][i]=(i+1)
         arr[1][i]=a
